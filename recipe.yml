@@ -798,7 +798,7 @@ extensions:
         source:
           method: github
           url: UnofficialCrusaderPatch/Selfaware-AI
-          github-sha: 8ae0a3677223f287ac6400efa918d353cd05cbe2
+          github-sha: 2e23b365d30aa510beced63c2c2d81e715237f3e
           github-tag: codex/branching-fortunes
           location: Selfaware-AI
 
@@ -810,5 +810,5 @@ extensions:
         source:
           method: github
           url: UnofficialCrusaderPatch/Selfaware-AI
-          github-sha: 8ae0a3677223f287ac6400efa918d353cd05cbe2
+          github-sha: 2e23b365d30aa510beced63c2c2d81e715237f3e
           github-tag: codex/branching-fortunes

@@ -13,11 +13,20 @@ journal records observations, native outcomes and explicitly unverified aborts.
 Learning state is separated by effective UCP configuration and runtime revision.
 No tactical-policy optimization is included in this packaging change.
 
+The candidate also exposes editable starting troop counts under Customisations:
+four assassins and six Arabian archers by default, replacing the inherited Abbot
+troops. Other AI slots retain their rosters. Native reads verified all three
+start modes and an alternate 2-assassin/8-archer configuration. The preset is a
+proposed starting point, not a demonstrated balance result. Local bootstrap no
+longer depends on PowerShell module autoloading and writes per-game startup logs.
+
 Validation: ordinary secure game startup after removing the unavailable legacy
 development module; unsigned isolated package launch; fresh match through native
 menu handlers; two autonomous controllers; persisted learning and honest aborted
 match receipts. Reproducible evidence is in the pinned source under
 `daten/installation_20261024/`. No screenshots are included.
+Additional fresh-match, startup counterexample and native roster evidence is in
+`daten/starttruppen_20261024/`. Windows package build 40087556860 passed.
 
 ## Release gate
 

@@ -28,5 +28,11 @@ run is preserved alongside its correction. Supported engine: Crusader 1.41;
 version-specific addresses remain and guarded hook signatures are checked.
 This is not a complete OpenSHC port or a claim to understand the whole engine.
 
+The final Windows/MSVC artifact smoke test also passed. The recipe's source pin
+remains c6ac85f; the later test harness and artifact hashes, transcripts and learning
+receipts are at [evidence commit 0635bac](https://github.com/UnofficialCrusaderPatch/Selfaware-AI/tree/0635bac4309d4bcac4b9e03e00bc758cdf746bde/daten/store_grenze_20261024).
+This was an unsigned isolated review test, not a certificate-signed Secure-Load
+or a completed tournament victory.
+
 Maintainer review, signing and agreement on where experimental community
 projects belong are required before this proposal becomes public Store content.
